@@ -1,6 +1,12 @@
 # Bounds-Dissertation
 The PhD dissertation of James Bounds, as well as its LaTeX source code.
 
+The compiled PDF is most most easily accessed by the following links:
+
+[📄 View Dissertation (Official Format)](https://raw.githubusercontent.com/jaymz07/Bounds-Dissertation/main/Dissertation.pdf)
+
+[📄 View Dissertation (Single Spaced)](https://raw.githubusercontent.com/jaymz07/Bounds-Dissertation/main/Dissertation_singleSpaced.pdf)
+
 ## Licensing
 
 The code in this repository has two licensing components:
